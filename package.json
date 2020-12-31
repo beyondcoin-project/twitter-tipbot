@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "bitcoin-core": "^2.0.0",
+    "config": "^1.30.0",
+    "twit": "^2.2.11",
+    "winston": "3",
+    "winston-daily-rotate-file": "^3.2.3"
+  },
+  "name": "bynd-twitter-tipbot",
+  "version": "1.0.0",
+  "description": "A twitter tipbot for BYND",
+  "main": "index.js",
+  "repository": "https://github.com/beyondcoin-project/twitter-tipbot/",
+  "license": "MIT",
+  "private": false
+}
